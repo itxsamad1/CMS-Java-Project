@@ -195,8 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abdul Samad**
 - GitHub: [@itxsamad1](https://github.com/itxsamad1)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: itxsamad@icloud.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/itxsammad1)
 
 **Project Link:** [https://github.com/itxsamad1/CMS-Java-Project](https://github.com/itxsamad1/CMS-Java-Project)
 
